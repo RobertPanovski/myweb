@@ -1,0 +1,40 @@
+
+.topcontainer{
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+
+.bodyindex{
+  margin:0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
+
+.first_p{
+    margin-bottom: 0;
+    color: #007065;
+}
+
+.cloud{
+  position: absolute;
+
+  left: 300px;
+  bottom: 400px;
+}
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.mountain{
+  position: relative;
+  top: 55px;
+}
+.h1img{
+  width: 300px;
+}
