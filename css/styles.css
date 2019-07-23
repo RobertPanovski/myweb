@@ -16,6 +16,7 @@
 .first_p{
     margin-bottom: 0;
     color: #007065;
+    font-size: 1.5rem;
 }
 
 .cloud{
@@ -39,8 +40,7 @@
 }
 .paragraphBio{
   width: 400px;
-  position: relative;
-  left: 480px;
+  display: inline-block;
 }
 .h2middle{
   color: #007065;
@@ -54,39 +54,31 @@
 }
 .imgdata{
   width: 150px;
-  position: absolute;
-  right: 750px;
+
 }
 .h3Middle{
   color: #007065;
-  position: relative;
-  right: 425px;
+
 
 }
 .pdeveloper{
   width: 400px;
-  position: relative;
-  right: 430px;
+
   display: inline-block;
 
 }
 .h3Middle1{
   color: #007065;
-  position: relative;
-  left: 520px;
-  bottom: 80px;
-  display: inline-block;
+
+
 }
 .pgoals{
   width: 400px;
-  position: relative;
-  left: 180px;
+
   display: inline-block;
 }
 .imgsearch{
-  position: relative;
-  left: 700px;
-  bottom: 120px;
+  width: 100px;
 }
 .hrdotted{
   border-style: dotted none none none;
@@ -94,6 +86,11 @@
   border-width:8px;
   height: 20px;
   width: 70px;
-  margin-top: 30px;
+  margin-top: 30;
 
+}
+.skill-row{
+
+  margin: 100px auto 100px auto;
+  width: 50%;
 }
